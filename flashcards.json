@@ -8,6 +8,14 @@
 		{
 			"source": "Word",
 			"translation": "Слово"
+		},
+		{
+			"source": "pen",
+			"translation": "ручка"
+		},
+		{
+			"source": "table",
+			"translation": "стол"
 		}
 	]
 }
